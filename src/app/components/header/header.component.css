@@ -1,0 +1,22 @@
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 100%;
+  width: 100%;
+}
+
+header {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: small;
+    padding: 0.5rem;
+    width: 100%;  
+    gap: 1rem;
+    background-color: aliceblue;
+}
+
+img {
+    max-width: 4rem;
+}
